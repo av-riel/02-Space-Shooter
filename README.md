@@ -3,8 +3,8 @@ Project for 220 Game Technology class. Play as a pirate ship, avoid the rocks, a
 Started 09/19/21
 
 # Implementation
-Adobe Photoshop 2021 - Asset Creation
-Godot - Game Creation
+Adobe Photoshop 2021 (Asset Creation)
+Godot (Game Creation)
 
 # References
 Game Technology 02 Exercises
